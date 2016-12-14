@@ -1,2 +1,2 @@
-# Docker PHP7 with LibreOffice
-PHP7 FPM with LibreOffice
+# Docker PHP5 with LibreOffice
+PHP5 FPM with LibreOffice
