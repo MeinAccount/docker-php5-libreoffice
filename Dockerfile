@@ -1,6 +1,6 @@
 FROM php:5-fpm
 RUN apt-get update && apt-get install -y --no-install-recommends \
-    libpng12-dev \
+    libpng-dev \
     libjpeg-dev \
     libpq-dev \
     libreoffice \
